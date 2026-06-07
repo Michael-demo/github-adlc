@@ -57,7 +57,7 @@ on:
   # permissions: # Permissions applied to pre-activation job
     # pull-requests: read
   schedule:
-  - cron: "49 4 * * 1-5"
+  - cron: "49 15 * * 1-5"
     # Friendly format: daily on weekdays (scattered)
   # steps: # Steps injected into pre-activation job
   # - id: check

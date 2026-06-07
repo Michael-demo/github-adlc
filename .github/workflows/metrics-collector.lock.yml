@@ -57,7 +57,7 @@
 name: "Metrics Collector - Infrastructure Agent"
 on:
   schedule:
-  - cron: "26 5 * * *"
+  - cron: "7 21 * * *"
     # Friendly format: daily (scattered)
   workflow_dispatch:
     inputs:

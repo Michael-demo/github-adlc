@@ -69,7 +69,7 @@
 name: "Daily Compiler Quality Check"
 on:
   schedule:
-  - cron: "23 2 * * *"
+  - cron: "19 19 * * *"
     # Friendly format: daily (scattered)
   workflow_dispatch:
     inputs:

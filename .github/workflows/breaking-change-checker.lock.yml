@@ -65,7 +65,7 @@
 name: "Breaking Change Checker"
 on:
   schedule:
-  - cron: "15 13 * * 1-5"
+  - cron: "12 13 * * 1-5"
     # Friendly format: daily around 14:00 on weekdays (scattered)
   workflow_dispatch:
     inputs:

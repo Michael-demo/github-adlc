@@ -61,7 +61,7 @@ on:
   # permissions: # Permissions applied to pre-activation job
     # pull-requests: read
   schedule:
-  - cron: "37 4 * * *"
+  - cron: "41 3 * * *"
   # steps: # Steps injected into pre-activation job
   # - id: check
     # run: |
