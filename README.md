@@ -31,7 +31,6 @@ This repository includes a suite of AI-powered GitHub Actions workflows that con
 | `code-simplifier` | Analyzes recently modified code and opens PRs with simplifications that improve clarity while preserving functionality | Daily |
 | `duplicate-code-detector` | Identifies duplicate code patterns across the codebase and suggests refactoring opportunities | Daily |
 | `breaking-change-checker` | Analyzes recent commits and merged PRs for breaking CLI changes | Daily |
-| `schema-consistency-checker` | Detects inconsistencies between JSON schema, implementation code, and documentation | Daily |
 | `cli-consistency-checker` | Inspects the gh-aw CLI to identify inconsistencies, typos, bugs, or documentation gaps | On demand |
 
 ### Testing
@@ -64,7 +63,6 @@ This repository includes a suite of AI-powered GitHub Actions workflows that con
 
 | Workflow | Description | Schedule |
 |----------|-------------|----------|
-| `audit-workflows` | Daily audit of all agentic workflow runs to identify issues and improvement opportunities | Daily |
 | `workflow-health-manager` | Meta-orchestrator for monitoring and managing health of all agentic workflows | Daily |
 | `metrics-collector` | Collects daily performance metrics for the agent ecosystem | Daily |
 | `portfolio-analyst` | Identifies cost reduction opportunities (20%+) while improving workflow reliability | Weekly |
@@ -74,7 +72,6 @@ This repository includes a suite of AI-powered GitHub Actions workflows that con
 | Workflow | Description | Schedule |
 |----------|-------------|----------|
 | `issue-triage-agent` | Automatically triages and labels incoming issues | Weekdays |
-| `blog-auditor` | Verifies that the GitHub Next Agentic Workflows blog page is accessible and up-to-date | Weekly |
 
 ## Development
 
