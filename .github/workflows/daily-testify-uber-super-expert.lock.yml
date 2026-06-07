@@ -69,7 +69,7 @@
 name: "Daily Testify Uber Super Expert"
 on:
   schedule:
-  - cron: "49 5 * * *"
+  - cron: "37 20 * * *"
     # Friendly format: daily (scattered)
   workflow_dispatch:
     inputs:

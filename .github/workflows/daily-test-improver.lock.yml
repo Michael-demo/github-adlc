@@ -89,7 +89,7 @@ on:
     - created
     - edited
   schedule:
-  - cron: "26 6 * * *"
+  - cron: "38 7 * * *"
   # steps: # Steps injected into pre-activation job
   # - id: check
     # run: |
