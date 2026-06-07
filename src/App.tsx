@@ -264,7 +264,7 @@ function App() {
                   View lifecycle
                 </a>
                 <a
-                  href="https://github.com/Michael-demo/github-adlc"
+                  href="https://github.com/msftse/github-adlc"
                   className="inline-flex items-center justify-center rounded-full bg-neon px-7 py-4 font-grotesk text-[13px] uppercase tracking-wide text-background transition hover:scale-[0.98]"
                 >
                   Open repository
